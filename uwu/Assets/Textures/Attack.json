@@ -1,0 +1,65 @@
+{ "frames": [
+   {
+    "filename": "Attack 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 338, "h": 162 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 45, "y": 45, "w": 338, "h": 162 },
+    "sourceSize": { "w": 384, "h": 256 },
+    "duration": 50
+   },
+   {
+    "filename": "Attack 1.aseprite",
+    "frame": { "x": 338, "y": 0, "w": 338, "h": 162 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 45, "y": 45, "w": 338, "h": 162 },
+    "sourceSize": { "w": 384, "h": 256 },
+    "duration": 50
+   },
+   {
+    "filename": "Attack 2.aseprite",
+    "frame": { "x": 676, "y": 0, "w": 338, "h": 162 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 45, "y": 45, "w": 338, "h": 162 },
+    "sourceSize": { "w": 384, "h": 256 },
+    "duration": 50
+   },
+   {
+    "filename": "Attack 3.aseprite",
+    "frame": { "x": 0, "y": 162, "w": 338, "h": 162 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 45, "y": 45, "w": 338, "h": 162 },
+    "sourceSize": { "w": 384, "h": 256 },
+    "duration": 50
+   },
+   {
+    "filename": "Attack 4.aseprite",
+    "frame": { "x": 338, "y": 162, "w": 338, "h": 162 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 45, "y": 45, "w": 338, "h": 162 },
+    "sourceSize": { "w": 384, "h": 256 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.40-x64",
+  "image": "Attack.png",
+  "format": "RGBA8888",
+  "size": { "w": 1014, "h": 324 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "base_swing", "from": 0, "to": 1, "direction": "forward" },
+   { "name": "long_swing", "from": 2, "to": 4, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Layer 2", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
